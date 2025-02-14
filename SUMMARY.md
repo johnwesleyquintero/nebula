@@ -4,8 +4,7 @@
 
 ## Getting Started
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Nebula: Cosmic-Themed Principles for Our Wizards](getting-started/nebula-cosmic-themed-principles-for-our-wizards.md)
 
 ## Basics
 
@@ -15,7 +14,3 @@
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
-
-***
-
-* [Nebula: Cosmic-Themed Principles for Our Wizards](nebula-cosmic-themed-principles-for-our-wizards.md)
