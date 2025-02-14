@@ -1,6 +1,9 @@
 ---
 icon: hand-wave
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
+cover: >-
+  .gitbook/assets/DALL·E 2025-02-13 20.51.03 - A majestic cosmic nebula swirling
+  with deep purples and vibrant teal hues, set against a field of glittering
+  stars. In the foreground, faint silhouett.webp
 coverY: 0
 layout:
   cover:
@@ -18,12 +21,12 @@ layout:
     visible: true
 ---
 
-# Welcome
+# Welcome to the Nebula DocSite!
 
-Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
+Greetings, dear wizard of code! You’ve arrived at the **Nebula** realm—a cosmic gateway to all the knowledge and best practices that fuel our projects. Here, you’ll find:
 
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+* **Galactic Guidelines** on design, development, and deployment.
+* **Stellar Examples** that illuminate how to harness our cosmic theme.
+* **Arcane Insights** to conquer challenges and build dazzling user experiences.
 
-### Jump right in
-
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Create your first site</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Basics</strong></td><td>Learn the basics of GitBook</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr></tbody></table>
+May your journey through these docs be enlightening, and may your code shine like starlight across the digital cosmos. Welcome aboard—let the Nebula guide your path to excellence!
