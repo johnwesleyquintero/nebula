@@ -15,3 +15,7 @@
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
+
+***
+
+* [Nebula: Cosmic-Themed Principles for Our Wizards](nebula-cosmic-themed-principles-for-our-wizards.md)
