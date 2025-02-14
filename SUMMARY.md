@@ -5,3 +5,4 @@
 ## Getting Started
 
 * [Nebula: Cosmic-Themed Principles for Our Wizards](getting-started/nebula-cosmic-themed-principles-for-our-wizards.md)
+* [Project Nebula - Quantum SEO Suite Documentation](getting-started/project-nebula-quantum-seo-suite-documentation.md)
