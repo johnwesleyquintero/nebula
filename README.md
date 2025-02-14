@@ -1,5 +1,5 @@
 ---
-icon: hand-wave
+icon: book-sparkles
 cover: >-
   .gitbook/assets/DALL·E 2025-02-13 20.51.03 - A majestic cosmic nebula swirling
   with deep purples and vibrant teal hues, set against a field of glittering
