@@ -1,8 +1,10 @@
 ---
 description: Quantum SEO & PPC Optimization Tools
+icon: star-shooting
+layout: landing
 ---
 
-# 🌌 Nebula Suite
+# Nebula Suite
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d09b389d-252d-46a2-9b6c-886a887835c8/deploy-status)](https://app.netlify.com/sites/static-nebula/deploys)
 
