@@ -3,6 +3,7 @@ description: >-
   In our quest for legendary design and maintainability, every project shall be
   imbued with the Nebula theme—a cosmic aesthetic that elevates our UI to God
   Mode. Follow these principles to craft an inte
+icon: scroll-torah
 ---
 
 # Nebula: Cosmic-Themed Principles for Our Wizards
